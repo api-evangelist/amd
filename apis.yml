@@ -1,0 +1,35 @@
+aid: amd
+url: https://raw.githubusercontent.com/api-evangelist/amd/refs/heads/main/apis.yml
+name: AMD
+type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/amd.png
+tags:
+  - Semiconductors
+  - Technology
+  - Processors
+  - Graphics
+description: 'A multinational semiconductor company designing high-performance processors, graphics cards, and adaptive computing solutions. Competes in data center, gaming, and embedded markets with its Ryzen, EPYC, and Radeon product lines.'
+created: '2026-05-05'
+modified: '2026-05-05'
+specificationVersion: '0.23'
+apis: []
+common:
+  - type: DomainSecurity
+    url: security/amd-domain-security.yml
+  - type: GitHubOrganization
+    url: https://github.com/amd
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/amd
+  - type: Website
+    url: https://www.amd.com/
